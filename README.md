@@ -1,4 +1,4 @@
-# catanddogpredictor
+# Cat or Dog
 
 A new Flutter project.
 
